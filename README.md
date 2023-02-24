@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/rewerp/rewerp/tree/main/devicons/delphi-logo-1024.png">
+
 <!--
 **rewerp/rewerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
