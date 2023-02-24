@@ -1,11 +1,9 @@
-### Hi there 👋
-
-![Delphi](https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png)
-
-
+### Em construção...
 
 <div align="center">
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
+  <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/react-original.svg">
+  <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/nodejs-original.svg">
 </div>
 
 <!--
