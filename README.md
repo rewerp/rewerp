@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+![Delphi](https://github.com/rewerp/rewerp/tree/main/devicons/delphi-logo-1024.png)
+
+
+
 <div align="center">
   <img align="center" alt="Windows" height="40" width="40" src="https://github.com/rewerp/rewerp/tree/main/devicons/delphi-logo-1024.png">
   <img align="center" alt="Windows" height="40" width="40" src="https://github.com/rewerp/rewerp/tree/main/devicons/react-original.svg">
