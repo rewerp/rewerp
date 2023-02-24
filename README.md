@@ -6,6 +6,8 @@
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/nodejs-original.svg">
 </div>
 
+![](https://komarev.com/ghpvc/?username=rewerp)
+
 <!--
 **rewerp/rewerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
