@@ -1,5 +1,5 @@
 <center>
-## Oi! Eu sou o Rewer!
+# Oi! Eu sou o Rewer!
 </center>
 
 Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.
@@ -7,7 +7,7 @@ Delphi é meu tecnologia principal, que utilizo em meu trabalho na Questor Siste
 Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
 
 <center>
-## Minhas tecnologias
+# Minhas tecnologias
 </center>
 
 <div align="center">
