@@ -25,6 +25,8 @@ Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
   <img height="155em" alight="justify" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=rewerp&count_private=true&hide_border=false&show_icons=true&theme=dracula">
 </div>
   
+##
+  
 <div>
   <a href = "mailto:rewer@outlook.com.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rewerp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
