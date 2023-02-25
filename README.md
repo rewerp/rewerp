@@ -1,11 +1,11 @@
 
-### Oi! Eu sou o Rewer!
+## Oi! Eu sou o Rewer!
 
 Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.
 Delphi é meu tecnologia principal, que utilizo em meu trabalho na Questor Sistemas.
 Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
 
-### Minhas tecnologias
+## Minhas tecnologias
 
 <div align="center">
   <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
@@ -17,6 +17,8 @@ Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
   <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/css3-plain.svg">
   <img align="center" alt="Git" title="Git" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/git-original.svg">
 </div>
+
+##
 
 <div align="center" style="margin-bottom: 50px;">
   <img align="justify" height="155em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewerp&langs_count=8&layout=compact&account_private=true&hide_border=false&theme=dracula" href="#">
