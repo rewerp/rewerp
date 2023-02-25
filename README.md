@@ -5,6 +5,8 @@
 ### Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
 
 ## Minhas tecnologias
+####
+![Delphi](https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png =40x40 "Delphi")
 
 <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
 
