@@ -1,11 +1,14 @@
-
+<center>
 ## Oi! Eu sou o Rewer!
+</center>
 
 Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.
 Delphi é meu tecnologia principal, que utilizo em meu trabalho na Questor Sistemas.
 Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
 
+<center>
 ## Minhas tecnologias
+</center>
 
 <div align="center">
   <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
@@ -27,7 +30,7 @@ Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
   
 ##
   
-<div>
+<div align="center">
   <a href = "mailto:rewer@outlook.com.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rewerp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
