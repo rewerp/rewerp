@@ -1,15 +1,15 @@
 <center>
-# Oi! Eu sou o Rewer!
+  <h2>Oi! Eu sou o Rewer!</h2>
 </center>
-
+##
 Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.
 Delphi é meu tecnologia principal, que utilizo em meu trabalho na Questor Sistemas.
 Estudando outras pilhas como Javascript, Typescript, React, NodeJS, HTML e CSS.
 
 <center>
-# Minhas tecnologias
+  <h2>Minhas tecnologias</h2>
 </center>
-
+##
 <div align="center">
   <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
   <img align="center" alt="ReactJS" title="React" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/react-original.svg">
