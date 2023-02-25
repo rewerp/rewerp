@@ -6,7 +6,6 @@
   <p>Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.</p>
   <p>Delphi é minha principal tecnologia, que utilizo em meu trabalho na Questor Sistemas.</p>
   <p>Estudo outras tecnologias como Javascript, Typescript, React, NodeJS, HTML e CSS.</p>
-  <p></p>
 </div>
 
 <div align="center">
