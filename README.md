@@ -21,6 +21,7 @@
   <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/css3-plain.svg">
   <img align="center" alt="Git" title="Git" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/git-original.svg">
+  <img align="center" alt="VSCode" title="VS Code" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/ec13fe8d88a6c8acb8fd0275614fd9453bdd104b/devicons/vscode-original.svg">
 </div>
 
 ##
