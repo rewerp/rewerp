@@ -41,5 +41,5 @@
 ##
 
 <div align="center" style="margin-bottom: 50px;">
-  <img align="center" alt="ImageFalseJoke" title="It's so funny!" src="https://raw.githubusercontent.com/rewerp/icons/e88787753136e364b465cfa228869560906dd35f/images/falsejoke.svg">
+  <img align="center" alt="ImageFalseJoke" title="Just a joke!" src="https://raw.githubusercontent.com/rewerp/icons/e88787753136e364b465cfa228869560906dd35f/images/falsejoke.svg">
 </div>
