@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
+  <h2>Oi! Eu sou o Rewer!</h2>
+</div>
 
-<!--
-**rewerp/rewerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p>Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.</p>
+  <p>Delphi é minha principal tecnologia, que utilizo em meu trabalho na Questor Sistemas.</p>
+  <p>Estudo outras tecnologias como Javascript, Typescript, React, NodeJS, HTML e CSS.</p>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>Minhas tecnologias</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
+  <img align="center" alt="ReactJS" title="React" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/react-original.svg">
+  <img align="center" alt="NodeJS" title="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/nodejs-original.svg">
+  <img align="center" alt="Javascript" title="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/javascript-original.svg">
+  <img align="center" alt="Typescript" title="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/typescript-plain.svg">
+  <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/css3-plain.svg">
+  <img align="center" alt="Git" title="Git" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/0e439a058630db63e7356bdb1af3189b2f772bd7/devicons/git-original.svg">
+</div>
+
+##
+
+<div align="center" style="margin-bottom: 50px;">
+  <img align="justify" height="155em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewerp&langs_count=8&layout=compact&account_private=true&hide_border=false&theme=dracula" href="#">
+  <img height="155em" alight="justify" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=rewerp&count_private=true&hide_border=false&show_icons=true&theme=dracula">
+</div>
+  
+##
+  
+<div align="center">
+  <a href = "mailto:rewer@outlook.com.br"><img title="rewer@outlook.com.br" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rewerp" target="_blank"><img title="linkedin.com/in/rewerp" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
