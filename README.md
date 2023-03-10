@@ -8,17 +8,9 @@
   <p>Estudo outras tecnologias como Javascript, Typescript, React, NodeJS, HTML e CSS.</p>
 </div>
 
-## Oi! Eu sou o Rewer!
-
-Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.
-Delphi é minha principal tecnologia, que utilizo em meu trabalho na Questor Sistemas.
-Estudo outras tecnologias como Javascript, Typescript, React, NodeJS, HTML e CSS.
-
 <div align="center">
   <h2>Minhas tecnologias</h2>
 </div>
-
-## Minhas tecnologias
 
 <div align="center">
   <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/icons/main/devicons/delphi-logo-1024.png">
