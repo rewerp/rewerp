@@ -1,11 +1,12 @@
 <div align="center">
-  <h2>Oi! Eu sou o Rewer!</h2>
+  <h2>Olá! Eu sou o Rewer!</h2>
 </div>
 
 <div align="center">
-  <p>Desenvolvedor e estudante, apaixonado por tecnologia, inovação, games e música.</p>
-  <p>Delphi é minha principal tecnologia, que utilizo em meu trabalho na Questor Sistemas.</p>
-  <p>Estudo outras tecnologias como Javascript, Typescript, React, NodeJS, HTML e CSS.</p>
+  <p>Desenvolvedord de sistemas e estudante, apaixonado por tecnologia, inovação, games e música.</p>
+  <p>Delphi é minha principal tecnologia, que utilizo em meu trabalho atualmente.</p>
+  <p>Estudo outras tecnologias como Javascript, Typescript, React, NodeJS, HTML, CSS e C#.</p>
+  <p>Meu foco é o aprendizado e evolução constante. Sempre temos algo novo para conhecer e aprender.</p>
 </div>
 
 <div align="center">
