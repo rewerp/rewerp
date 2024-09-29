@@ -39,7 +39,6 @@
 <div align="center">
   <a href = "mailto:rewer@outlook.com.br"><img title="rewer@outlook.com.br" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rewerp" target="_blank"><img title="linkedin.com/in/rewerp" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="Rewer#3162" target="_blank"><img title="Rewer#3162" src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5E62EF&color=5E62EF" target="_blank"></a>
 </div>
 
 ##
