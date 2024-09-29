@@ -16,7 +16,7 @@
 <div align="center">
   <img align="center" alt="Delphi" title="Delphi" height="40" width="40" src="https://github.com/rewerp/rewerp/blob/main/assets/devicons/delphi-logo-1024.png">
   <img align="center" alt="CSharp" title="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/rewerp/1882678070c7dc0badd4eedae494c3c5af0a843d/assets/devicons/csharp-plain.svg">
-  <img align="center" alt="dotNet" title="dotNet" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/rewerp/1882678070c7dc0badd4eedae494c3c5af0a843d/assets/devicons/dotnetcore-plain.svg">
+  <img align="center" alt="dotNet" title="dotNet" height="40" width="40" src="https://raw.githubusercontent.com/rewerp/rewerp/a85f3c9d2fdac47e327635ab835bb66c5c7ce364/assets/devicons/dotnetcore-plain.svg">
   <img align="center" alt="Javascript" title="Javascript" height="40" width="40" src="https://github.com/rewerp/rewerp/blob/main/assets/devicons/javascript-original.svg">
   <img align="center" alt="Typescript" title="Typescript" height="40" width="40" src="https://github.com/rewerp/rewerp/blob/main/assets/devicons/typescript-plain.svg">
   <img align="center" alt="NodeJS" title="NodeJS" height="40" width="40" src="https://github.com/rewerp/rewerp/blob/main/assets/devicons/nodejs-original.svg">
